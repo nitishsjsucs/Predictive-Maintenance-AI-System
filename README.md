@@ -293,6 +293,15 @@ best_name, best_model = models.select_best_model(metric='f1')
 
 ---
 
+## My Contributions
+
+- **Multi-Model ML Pipeline** — Built the complete machine learning pipeline with automated feature engineering, model selection (Random Forest, XGBoost, SVM, Neural Network), and hyperparameter tuning using cross-validation.
+- **Feature Engineering** — Designed the sensor data feature extraction system including rolling statistics, lag features, frequency-domain transforms, and interaction terms from raw equipment telemetry.
+- **Anomaly Detection Module** — Implemented the unsupervised anomaly detection layer using Isolation Forest and statistical process control for early failure warning before supervised models trigger.
+- **Visualization Dashboard** — Created the interactive analysis dashboard with confusion matrices, ROC curves, feature importance plots, and temporal failure pattern visualizations.
+
+---
+
 ## Author
 
 **Nitish**
